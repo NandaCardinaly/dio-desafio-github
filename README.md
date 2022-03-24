@@ -10,21 +10,6 @@ Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, o
 
 
 
-COMO RODAR ESSA APLICAÇÃO? :rocket:
-
------------
-
-**Linguagem Java | Ambiente de desenvolvimento: Apache NetBeans IDE 12.6**
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-\- Ambiente de desenvolvimento NetBeansIDE (https://www.apache.org/dyn/closer.cgi/netbeans/netbeans-installers/12.6/)
-\- Java Development Kit (JDK) - Sugestão: O open jdk da Azul Zulu Builds (https://www.azul.com/downloads/?package=jdk)
-
-Após a instalação do JDK e do ambiente de desenvolvimento integrado (NetBeans IDE), inicie o NetBeans, clique em file>open project,
-escolha o caminho do diretório onde você colocou os projetos e abra. Execute através do menu superior ou do atalho F6.
-
-
-
 QUESTÃO RESOLVIDA :notebook:
 
 ---------
